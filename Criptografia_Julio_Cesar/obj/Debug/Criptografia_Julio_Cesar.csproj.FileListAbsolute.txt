@@ -1,0 +1,10 @@
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Criptografia_Julio_Cesar\Criptografia_Julio_Cesar\bin\Debug\Criptografia_Julio_Cesar.exe.config
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Criptografia_Julio_Cesar\Criptografia_Julio_Cesar\bin\Debug\Criptografia_Julio_Cesar.exe
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Criptografia_Julio_Cesar\Criptografia_Julio_Cesar\bin\Debug\Criptografia_Julio_Cesar.pdb
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Criptografia_Julio_Cesar\Criptografia_Julio_Cesar\obj\Debug\Criptografia_Julio_Cesar.csprojAssemblyReference.cache
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Criptografia_Julio_Cesar\Criptografia_Julio_Cesar\obj\Debug\Criptografia_Julio_Cesar.csproj.CoreCompileInputs.cache
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Criptografia_Julio_Cesar\Criptografia_Julio_Cesar\obj\Debug\Criptografia_Julio_Cesar.exe
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Criptografia_Julio_Cesar\Criptografia_Julio_Cesar\obj\Debug\Criptografia_Julio_Cesar.pdb
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Criptografia_Julio_Cesar\Criptografia_Julio_Cesar\bin\Debug\Newtonsoft.Json.dll
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Criptografia_Julio_Cesar\Criptografia_Julio_Cesar\bin\Debug\Newtonsoft.Json.xml
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Criptografia_Julio_Cesar\Criptografia_Julio_Cesar\obj\Debug\Criptografia_Julio_Cesar.csproj.CopyComplete
