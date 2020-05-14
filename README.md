@@ -1,11 +1,13 @@
-# Aceleradev-Cript_Julio_Cesar
-Repositório com o desafio Criptografia de Júlio César
+# Criptografia de Júlio César
+
 Segundo o Wikipedia, criptografia ou criptologia (em grego: kryptós, “escondido”, e gráphein, “escrita”) é o estudo e prática de princípios e técnicas para comunicação segura na presença de terceiros, chamados “adversários”. Mais geralmente, a criptografia refere-se à construção e análise de protocolos que impedem terceiros, ou o público, de lerem mensagens privadas. Muitos aspectos em segurança da informação, como confidencialidade, integridade de dados, autenticação e não-repúdio são centrais à criptografia moderna. Aplicações de criptografia incluem comércio eletrônico, cartões de pagamento baseados em chip, moedas digitais, senhas de computadores e comunicações militares. Das criptografias mais curiosas na história da humanidade podemos citar a criptografia utilizada pelo grande líder militar romano Júlio César para comunicar-se com os seus generais. Essa criptografia se baseava na substituição das letra do alfabeto avançando três casas.
 
 Para exemplificar essa técnica, vamos usar um pangrama, que é uma frase que utiliza todas as letras de um certo alfabeto.
 
 Normal:  the quick brown fox jumps over the lazy dog
+
 Cifrado: wkh txlfn eurzq ira mxpsv ryhu wkh odcb grj
+
 O objetivo desse desafio é implementar os métodos da classe CesarCypher para a criptografar e descriptografar mensagens usando a Cifra de César:
 
 Regras:
