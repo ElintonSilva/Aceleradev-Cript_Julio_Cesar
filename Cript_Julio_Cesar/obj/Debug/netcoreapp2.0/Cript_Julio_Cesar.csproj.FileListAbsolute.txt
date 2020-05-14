@@ -1,0 +1,8 @@
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Aceleradev-Cript_Julio_Cesar\Cript_Julio_Cesar\bin\Debug\netcoreapp2.0\Cript_Julio_Cesar.deps.json
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Aceleradev-Cript_Julio_Cesar\Cript_Julio_Cesar\bin\Debug\netcoreapp2.0\Cript_Julio_Cesar.runtimeconfig.json
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Aceleradev-Cript_Julio_Cesar\Cript_Julio_Cesar\bin\Debug\netcoreapp2.0\Cript_Julio_Cesar.runtimeconfig.dev.json
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Aceleradev-Cript_Julio_Cesar\Cript_Julio_Cesar\bin\Debug\netcoreapp2.0\Cript_Julio_Cesar.dll
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Aceleradev-Cript_Julio_Cesar\Cript_Julio_Cesar\obj\Debug\netcoreapp2.0\Cript_Julio_Cesar.csprojAssemblyReference.cache
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Aceleradev-Cript_Julio_Cesar\Cript_Julio_Cesar\obj\Debug\netcoreapp2.0\Cript_Julio_Cesar.AssemblyInfoInputs.cache
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Aceleradev-Cript_Julio_Cesar\Cript_Julio_Cesar\obj\Debug\netcoreapp2.0\Cript_Julio_Cesar.AssemblyInfo.cs
+E:\AULA\PROGRAMAÇÃO\codenation.dev\aceleradev\C#\Aceleradev-Cript_Julio_Cesar\Cript_Julio_Cesar\obj\Debug\netcoreapp2.0\Cript_Julio_Cesar.genruntimeconfig.cache

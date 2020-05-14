@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/TEeP04r8nWaRUEqlezTJ7qyEhYXVeCtqGJW1vmm0NPNt4/BJFUxDqaO/X8Vx/VAD5Bl1rhnvUoIGt7GSeVxRw==",
+  "success": true,
+  "projectFilePath": "E:\\AULA\\PROGRAMAÇÃO\\codenation.dev\\aceleradev\\C#\\Aceleradev-Cript_Julio_Cesar\\Cript_Julio_Cesar\\Cript_Julio_Cesar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HOME\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -2,11 +2,11 @@
 using System.IO;
 using System.Linq;
 using System.Net;
-using Newtonsoft.Json;
 using System.Security.Cryptography;
 using System.Text;
+using Newtonsoft.Json;
 
-namespace Criptografia_Julio_Cesar
+namespace Cript_Julio_Cesar
 {
     class Program
     {
@@ -35,9 +35,9 @@ namespace Criptografia_Julio_Cesar
             //Salva a mensagem
             string answer = JsonConvert.SerializeObject(message, Formatting.Indented);
             File.WriteAllText("answer.json", answer);
-
         }
     }
+
     class Message
     {
         public int numero_casas { get; set; }

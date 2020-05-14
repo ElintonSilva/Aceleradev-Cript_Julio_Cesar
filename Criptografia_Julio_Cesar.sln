@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia_Julio_Cesar", "Criptografia_Julio_Cesar\Criptografia_Julio_Cesar.csproj", "{9F5CEAF5-155D-4840-945C-3BE248DE6A83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cript_Julio_Cesar", "Cript_Julio_Cesar\Cript_Julio_Cesar.csproj", "{16F2927C-231D-487F-B651-D1780B30936C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{95F3C5E1-D01C-4964-A397-8DA78254E373}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +16,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9F5CEAF5-155D-4840-945C-3BE248DE6A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F5CEAF5-155D-4840-945C-3BE248DE6A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F5CEAF5-155D-4840-945C-3BE248DE6A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F5CEAF5-155D-4840-945C-3BE248DE6A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F2927C-231D-487F-B651-D1780B30936C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F2927C-231D-487F-B651-D1780B30936C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F2927C-231D-487F-B651-D1780B30936C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F2927C-231D-487F-B651-D1780B30936C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
