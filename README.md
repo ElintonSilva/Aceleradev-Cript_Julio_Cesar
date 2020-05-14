@@ -12,23 +12,31 @@ O objetivo desse desafio é implementar os métodos da classe CesarCypher para a
 
 Regras:
 
-As mensagens serão convertidas para minúsculas antes da criptografia e a descriptografia irá resultar em uma mensagem apenas com letras minúsculas.
-Os números e espaços não serão cifrados.
+-As mensagens serão convertidas para minúsculas antes da criptografia e a descriptografia irá resultar em uma mensagem apenas com letras minúsculas.
+
+-Os números e espaços não serão cifrados.
+
 Caso seja fornecido uma mensagem vazia para cifrar deve retornar um valor vazio
+
 Caso seja fornecida um valor para cifrar ou decifrar que contenha caracteres especiais ou letras acentuadas como ç, á, é, etc. devem disparar uma exceção do tipo ArgumentOutOfRangeException
+
 Caso seja fornecido um valor nulo para cifrar ou decifrar deve disparar uma exceção do tipo ArgumentNullException
+
 A classe deve implementar as interfaces ICrypt e IDecrypt da seguinte forma:
 
 O método Crypt da interface ICrypt recebe uma string e retorna outra string com a mensagem cifrada.
+
 O método Decrypt da interface IDecrypt recebe uma string com a mensagem cifrada e retorna outra string com a mensagem decifrada.
 Tópicos
+
 Neste desafio você aprenderá:
 
-Variáveis e métodos
-Manipular cadeias de caracteres
-Controle de fluxo
+Variáveis e métodos,
+Manipular cadeias de caracteres,
+Controle de fluxo.
+
 Requisitos
-​Para este desafio você precisará :
+Para este desafio você precisará :
 
 .NET Core 2.0+
 Visual Studio ou Visual Studio Code
